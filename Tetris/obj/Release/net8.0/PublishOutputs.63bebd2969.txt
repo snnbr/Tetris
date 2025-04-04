@@ -1,0 +1,5 @@
+C:\Users\seann\Downloads\Tetris2.0\Tetris.exe
+C:\Users\seann\Downloads\Tetris2.0\Tetris.dll
+C:\Users\seann\Downloads\Tetris2.0\Tetris.deps.json
+C:\Users\seann\Downloads\Tetris2.0\Tetris.runtimeconfig.json
+C:\Users\seann\Downloads\Tetris2.0\Tetris.pdb

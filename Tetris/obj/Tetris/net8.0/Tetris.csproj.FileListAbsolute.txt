@@ -1,0 +1,14 @@
+C:\EigenerCode\C#\Tetris\Tetris\bin\Tetris\net8.0\Tetris.exe
+C:\EigenerCode\C#\Tetris\Tetris\bin\Tetris\net8.0\Tetris.deps.json
+C:\EigenerCode\C#\Tetris\Tetris\bin\Tetris\net8.0\Tetris.runtimeconfig.json
+C:\EigenerCode\C#\Tetris\Tetris\bin\Tetris\net8.0\Tetris.dll
+C:\EigenerCode\C#\Tetris\Tetris\bin\Tetris\net8.0\Tetris.pdb
+C:\EigenerCode\C#\Tetris\Tetris\obj\Tetris\net8.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\EigenerCode\C#\Tetris\Tetris\obj\Tetris\net8.0\Tetris.AssemblyInfoInputs.cache
+C:\EigenerCode\C#\Tetris\Tetris\obj\Tetris\net8.0\Tetris.AssemblyInfo.cs
+C:\EigenerCode\C#\Tetris\Tetris\obj\Tetris\net8.0\Tetris.csproj.CoreCompileInputs.cache
+C:\EigenerCode\C#\Tetris\Tetris\obj\Tetris\net8.0\Tetris.dll
+C:\EigenerCode\C#\Tetris\Tetris\obj\Tetris\net8.0\refint\Tetris.dll
+C:\EigenerCode\C#\Tetris\Tetris\obj\Tetris\net8.0\Tetris.pdb
+C:\EigenerCode\C#\Tetris\Tetris\obj\Tetris\net8.0\Tetris.genruntimeconfig.cache
+C:\EigenerCode\C#\Tetris\Tetris\obj\Tetris\net8.0\ref\Tetris.dll

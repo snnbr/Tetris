@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EigenerCode\\C#\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B335CB1-BBDC-42DE-BE09-95A5609AF7D7}|Tetris\\Tetris.csproj|c:\\eigenercode\\c#\\tetris\\tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B335CB1-BBDC-42DE-BE09-95A5609AF7D7}|Tetris\\Tetris.csproj|solutionrelative:tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\EigenerCode\\C#\\Tetris\\Tetris\\Program.cs",
+              "RelativeDocumentMoniker": "Tetris\\Program.cs",
+              "ToolTip": "C:\\EigenerCode\\C#\\Tetris\\Tetris\\Program.cs",
+              "RelativeToolTip": "Tetris\\Program.cs",
+              "ViewState": "AgIAAL8BAAAAAAAAAAAuwMQBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:43:50.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
